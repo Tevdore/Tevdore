@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tevdore
+- 👀 I’m interested in programming, basically, in everything connected to data analysis
+- 🌱 I’m currently learning C/C++
